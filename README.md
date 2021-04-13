@@ -3,7 +3,7 @@ Developed a deep learning model using Convolutional Neural Networks to detect wh
 Dataset Link : https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset
 
 # Results
-![55h2jw](https://user-images.githubusercontent.com/70017267/114586803-a9a91e80-9ca2-11eb-81c4-5c9b6cd69ac9.gif)
+https://user-images.githubusercontent.com/70017267/114588141-fccfa100-9ca3-11eb-985e-d30ad687360d.mp4
 
 
 ### All the results are snapshots taken from a video
